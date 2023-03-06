@@ -8,7 +8,7 @@ public class Primenumber {
 		boolean bprime=true;
 for (int i=2;i<input;i++)
 {
-	if(input%i==0);
+	if(input%i==0)
 	{
 		System.out.println("Non Prime");
 		bprime=false;
